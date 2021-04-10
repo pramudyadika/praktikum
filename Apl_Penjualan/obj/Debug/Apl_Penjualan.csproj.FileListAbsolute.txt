@@ -1,0 +1,15 @@
+C:\Dika\Apl_Penjualan\bin\Debug\Apl_Penjualan.exe.config
+C:\Dika\Apl_Penjualan\bin\Debug\Apl_Penjualan.exe
+C:\Dika\Apl_Penjualan\bin\Debug\Apl_Penjualan.pdb
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.csprojAssemblyReference.cache
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.GUI.Menu_Utama.resources
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.Properties.Resources.resources
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.csproj.GenerateResource.cache
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.csproj.CoreCompileInputs.cache
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.exe
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.pdb
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.GUI.FormBuku.resources
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.GUI.FormPelanggan.resources
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.GUI.FormTransaksi.resources
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.GUI.DialogBuku.resources
+C:\Dika\Apl_Penjualan\obj\Debug\Apl_Penjualan.GUI.DialogPelanggan.resources
